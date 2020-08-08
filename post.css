@@ -1,0 +1,101 @@
+body{
+    padding-bottom:20px;
+    background:#F2F2F2;
+    font-size:14px;
+    font-family:'open-sans', sans-serif;
+    line-height:1.7;
+}
+
+div#side-bar{
+    background:white;
+    color:#C0C0C0;
+    box-sizing:content-box;
+    border:solid 1px #F2F2F2;
+    margin: 0 auto;
+    text-align:left;
+    padding:-10px;
+    height:100%;
+}
+
+div#main-bar{
+    color:black;
+    
+}
+
+article#article1{
+    background:white;
+    box-sizing:border-box;
+    margin: 0 auto;
+    padding-bottom:20px;
+}
+
+div#article1-content{
+    padding:20px;
+}
+
+article#article2{
+    background:white;
+    box-sizing:border-box;
+    margin: 0 auto;
+    padding-bottom:20px;
+}
+
+div#article2-content{
+    padding:20px;
+}
+h1{
+    color:red;
+}
+h4{
+    color:black;
+}
+
+a{
+    color:#C0C0C0;
+}
+
+form#subscribe{
+    padding:0 40px 0;
+    margin:0 auto;
+    background:pink;
+}
+
+footer{
+    text-align:center;
+    font-style:Georgia Times sans-serif;
+    color:white;
+    background:#222;
+}
+
+section#footer-section{
+    background:#333;
+    color:white;
+    padding:100px;
+}
+
+div#main-content{
+    padding-bottom: 20px;
+}
+
+div#spy{
+    height:700px;
+    position:relative;
+    overflow-y:scroll;
+    padding:20px;
+}
+.article-image{
+    width:100%;
+    height:500px;
+}
+
+.share-button{
+    background:#F2F2F2;
+    color:black;
+    font-size:11px;
+    font-family:helvetica, sans-serif, georgia;
+}
+
+p.share-p{
+    padding-bottom:-40px;
+    color:red;
+}

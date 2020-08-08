@@ -1,0 +1,26 @@
+section{
+    padding:20px;
+}
+
+footer{
+    text-align:center;
+    font-style:Georgia Times sans-serif;
+    color:white;
+    background:#222;
+}
+
+a{
+    color:hotpink;
+}
+
+section#footer-section{
+    background:#333;
+}
+
+.col-md-4{
+    color:white;
+}
+
+h1{
+    padding: 20px 20px 0;
+}
